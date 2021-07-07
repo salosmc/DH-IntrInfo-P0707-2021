@@ -1,1 +1,2 @@
 Es un pokemon de agua.
+Evoluciona a fuego.
