@@ -1,1 +1,2 @@
 Bulbasaur es un pokemon de tipo planta. 
+Bulbasaur evoluciona a Ivysaur y luego Venusaur. 
